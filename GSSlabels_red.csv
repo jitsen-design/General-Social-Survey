@@ -1,0 +1,462 @@
+﻿Variable Name,Code,Label
+nateduc,1.5,No answer
+nateduc,1.5,Don't know
+nateduc,3,Too much
+nateduc,2,About right
+nateduc,1,Too little
+nateduc,0,Not applicable
+natrace,1.5,No answer
+natrace,1.5,Don't know
+natrace,3,Too much
+natrace,2,About right
+natrace,1,Too little
+natrace,0,Not applicable
+natarms,1.5,No answer
+natarms,1.5,Don't know
+natarms,3,Too much
+natarms,2,About right
+natarms,1,Too little
+natarms,0,Not applicable
+nataid,1.5,No answer
+nataid,1.5,Don't know
+nataid,3,Too much
+nataid,2,About right
+nataid,1,Too little
+nataid,0,Not applicable
+natfare,1.5,No answer
+natfare,1.5,Don't know
+natfare,3,Too much
+natfare,2,About right
+natfare,1,Too little
+natfare,0,Not applicable
+relig,No answer,No answer
+relig,Don't know,Don't know
+relig,Inter-nondenominational,Inter-nondenominational
+relig,Native american,Native american
+relig,Christian,Christian
+relig,Orthodox-christian,Orthodox-christian
+relig,Moslem/islam,Moslem/islam
+relig,Other eastern,Other eastern
+relig,Hinduism,Hinduism
+relig,Buddhism,Buddhism
+relig,Other,Other
+relig,None,None
+relig,Jewish,Jewish
+relig,Catholic,Catholic
+relig,Protestant,Protestant
+relig,Not applicable,Not applicable
+fund,1.5,Na-excluded
+fund,1.5,Don't know
+fund,3,Liberal
+fund,2,Moderate
+fund,1,Fundamentalist
+fund,0,Not applicable
+raclive,1.5,No answer
+raclive,1.5,Don't know
+raclive,2,No
+raclive,1,Yes
+raclive,0,Not applicable
+happy,1.5,No answer
+happy,1.5,Don't know
+happy,3,Not too happy
+happy,2,Pretty happy
+happy,1,Very happy
+happy,0,Not applicable
+satfin,1.5,No answer
+satfin,1.5,Don't know
+satfin,3,Not at all sat
+satfin,2,More or less
+satfin,1,Satisfied
+satfin,0,Not applicable
+finalter,1.5,No answer
+finalter,1.5,Don't know
+finalter,3,Stayed same
+finalter,2,Worse
+finalter,1,Better
+finalter,0,Not applicable
+finrela,2.5,No answer
+finrela,2.5,Don't know
+finrela,5,Far above average
+finrela,4,Above average
+finrela,3,Average
+finrela,2,Below average
+finrela,1,Far below average
+finrela,0,Not applicable
+coop,2.5,No answer
+coop,2.5,Don't know
+coop,4,Hostile
+coop,3,"Restless,impatient"
+coop,2,Cooperative
+coop,1,"Friendly,interested"
+coop,0,Not applicable
+comprend,2.5,No answer
+comprend,2.5,Don't know
+comprend,3,Poor
+comprend,2,Fair
+comprend,1,Good
+sample,10,2010 fp
+sample,9,2000 fp
+sample,8,1990 fp
+sample,7,1980 fp blk oversamp
+sample,6,1980 fp
+sample,5,1980 bfp blk oversamp
+sample,4,1970 fp blk oversamp
+sample,3,1970 fp
+sample,2,1970 bq
+sample,1,1960 bq
+natdrug,2.5,No answer
+natdrug,2.5,Don't know
+natdrug,3,Too much
+natdrug,2,About right
+natdrug,1,Too little
+natdrug,0,Not applicable
+natcity,1.5,No answer
+natcity,1.5,Don't know
+natcity,3,Too much
+natcity,2,About right
+natcity,1,Too little
+natcity,0,Not applicable
+natheal,1.5,No answer
+natheal,1.5,Don't know
+natheal,3,Too much
+natheal,2,About right
+natheal,1,Too little
+natheal,0,Not applicable
+wrkstat,No answer,No answer
+wrkstat,Other,Other
+wrkstat,Keeping house,Keeping house
+wrkstat,School,School
+wrkstat,Retired,Retired
+wrkstat,"Unempl, laid off","Unempl, laid off"
+wrkstat,Temp not working,Temp not working
+wrkstat,Working parttime,Working parttime
+wrkstat,Working fulltime,Working fulltime
+wrkstat,Not applicable,Not applicable
+hrs1,0,No answer
+hrs1,0,Don't know
+hrs1,0,Not applicable
+hrs2,0,No answer
+hrs2,0,Don't know
+hrs2,0,Not applicable
+evwork,1.5,No answer
+evwork,1.5,Don't know
+evwork,2,No
+evwork,1,Yes
+evwork,0,Not applicable
+wrkslf,1.5,No answer
+wrkslf,1.5,Don't know
+wrkslf,2,Someone else
+wrkslf,1,Self-employed
+wrkslf,0,Not applicable
+indus10,0,No answer
+indus10,0,Uncodeable
+indus10,98,"Active duty military personnel, all other"
+indus10,97,U.s. armed forces/n.s.
+indus10,97,U.s. coast guard
+indus10,97,U.s. marine corps
+indus10,96,U.s. navy
+indus10,96,U.s. air force
+indus10,96,U.s. army
+indus10,95,National security and international affairs
+indus10,95,Administration of economic programs and space research
+indus10,94,Administration of environmental quality and housing programs
+indus10,94,Administration of human resource programs
+indus10,94,"Justice, public order, and safety activities"
+indus10,93,Other general government and support
+indus10,93,Public finance activities
+indus10,93,Executive offices and legislative bodies
+indus10,92,Private households
+indus10,91,"Business, professional, political, and similar organizations"
+indus10,91,Labor unions
+indus10,91,"Civic, social, advocacy organizations, and grantmaking and giving services"
+indus10,91,Religious organizations
+indus10,90,Other personal services
+indus10,90,"Funeral homes, and cemeteries and crematories"
+indus10,90,Drycleaning and laundry services
+indus10,89,Nail salons and other personal care services
+indus10,89,Beauty salons
+indus10,89,Barber shops
+indus10,88,Footwear and leather goods repair
+indus10,88,Personal and household goods repair and maintenance
+indus10,88,Commercial and industrial machinery and equipment repair and maintenance
+indus10,87,Electronic and precision equipment repair and maintenance
+indus10,87,Car washes
+indus10,87,Automotive repair and maintenance
+indus10,86,"Drinking places, alcoholic beverages"
+indus10,86, restaurants and other food services
+indus10,86,"Recreational vehicle parks and camps, and rooming and boarding houses"
+indus10,86,Traveler accommodation
+indus10,85,"Other amusement, gambling, and recreation industries"
+indus10,85,Bowling centers
+indus10,85,"Museums, art galleries, historical sites, and similar institutions"
+indus10,85,"Independent artists, performing arts, spectator sports, and related industries"
+indus10,84,Child day care services
+indus10,83,Vocational rehabilitation services
+indus10,83,"Community food and housing, and emergency services"
+indus10,83,Individual and family services
+indus10,82,"Residential care facilities, without nursing"
+indus10,82,Nursing care facilities
+indus10,81,Hospitals
+indus10,81,Other health care services
+indus10,81,Home health care services
+indus10,80,Outpatient care centers
+indus10,80,Offices of other health practitioners
+indus10,80,Offices of optometrists
+indus10,79,Offices of chiropractors
+indus10,79,Offices of dentists
+indus10,79,Offices of physicians
+indus10,78,"Other schools and instruction, and educational support services"
+indus10,78,"Business, technical, and trade schools and training"
+indus10,78,"Colleges and universities, including junior colleges"
+indus10,78,Elementary and secondary schools
+indus10,77,Waste management and remediation services
+indus10,77,Other administrative and other support services
+indus10,77,Landscaping services
+indus10,76,Services to buildings and dwellings
+indus10,76,Investigation and security services
+indus10,76,Travel arrangements and reservation services
+indus10,75,Business support services
+indus10,75,Employment services
+indus10,75,Management of companies and enterprises
+indus10,74,"Other professional, scientific, and technical services"
+indus10,74,Veterinary services
+indus10,74,Advertising and related services
+indus10,74,Scientific research and development services
+indus10,73,"Management, scientific, and technical consulting services"
+indus10,73,Computer systems design and related services
+indus10,73,Specialized design services
+indus10,72,"Architectural, engineering, and related services"
+indus10,72,"Accounting, tax preparation, bookkeeping, and payroll services"
+indus10,72,Legal services
+indus10,71,"Commercial, industrial, and other intangible assets rental and leasing"
+indus10,71,Other consumer goods rental
+indus10,71,Video tape and disk rental
+indus10,70,Automotive equipment rental and leasing
+indus10,70,Real estate
+indus10,69,Insurance carriers and related activities
+indus10,69,"Securities, commodities, funds, trusts, and other financial investments"
+indus10,68,Non-depository credit and related activities
+indus10,68,"Savings institutions, including credit unions"
+indus10,68,Banking and related activities
+indus10,67,Other information services
+indus10,67,Libraries and archives
+indus10,66,"Data processing, hosting, and related services"
+indus10,66,Other telecommunications services
+indus10,66,Wired telecommunications carriers
+indus10,66,Internet publishing and broadcasting and web search portals
+indus10,66,Radio and television broadcasting and cable subscription programming
+indus10,65,Sound recording industries
+indus10,65,Motion pictures and video industries
+indus10,64,Software publishers
+indus10,64,"Periodical, book, and directory publishers"
+indus10,64,Newspaper publishers
+indus10,63,Warehousing and storage
+indus10,63,Couriers and messengers
+indus10,63,Postal service
+indus10,62,Services incidental to transportation
+indus10,62,Scenic and sightseeing transportation
+indus10,62,Pipeline transportation
+indus10,61,Taxi and limousine service
+indus10,61,Bus service and urban transit
+indus10,61,Truck transportation
+indus10,60,Water transportation
+indus10,60,Rail transportation
+indus10,60,Air transportation
+indus10,57,Not specified retail trade
+indus10,56,Other direct selling establishments
+indus10,56,Fuel dealers
+indus10,56,Vending machine operators
+indus10,55,Mail order houses
+indus10,55,Electronic auctions
+indus10,55,Electronic shopping
+indus10,55,Miscellaneous retail stores
+indus10,55,"Gift, novelty, and souvenir shops"
+indus10,54,Used merchandise stores
+indus10,54,Office supplies and stationery stores
+indus10,54,Retail florists
+indus10,53,Miscellaneous general merchandise stores
+indus10,53,Department stores and discount stores
+indus10,53,Book stores and news dealers
+indus10,52,Music stores
+indus10,52,"Sewing, needlework, and piece goods stores"
+indus10,52,"Sporting goods, camera, and hobby and toy stores"
+indus10,51,"Jewelry, luggage, and leather goods stores"
+indus10,51,Shoe stores
+indus10,51,Clothing stores
+indus10,50,Gasoline stations
+indus10,50,"Health and personal care, except drug, stores"
+indus10,50,Pharmacies and drug stores
+indus10,49,"Beer, wine, and liquor stores"
+indus10,49,Specialty food stores
+indus10,49,Grocery stores
+indus10,48,Lawn and garden equipment and supplies stores
+indus10,48,Hardware stores
+indus10,48,Building material and supplies dealers
+indus10,47,"Radio, tv, and computer stores"
+indus10,47,Household appliance stores
+indus10,47,Furniture and home furnishings stores
+indus10,46,"Auto parts, accessories, and tire stores"
+indus10,46,Other motor vehicle dealers
+indus10,46,Automobile dealers
+indus10,45,Not specified wholesale trade
+indus10,45,"Wholesale electronic markets, agents and brokers"
+indus10,45,"Miscellaneous nondurable goods, merchant wholesalers"
+indus10,45,"Farm supplies, merchant wholesalers"
+indus10,45,"Alcoholic beverages, merchant wholesalers"
+indus10,44,"Petroleum and petroleum products, merchant wholesalers"
+indus10,44,"Farm product raw materials, merchant wholesalers "
+indus10,44,"Groceries and related products, merchant wholesalers"
+indus10,43,"Apparel, fabrics, and notions, merchant wholesalers"
+indus10,43,"Drugs, sundries, and chemical and allied products, merchant wholesalers"
+indus10,43,"Paper and paper products, merchant wholesalers"
+indus10,42,"Miscellaneous durable goods, merchant wholesalers"
+indus10,42,"Recyclable material, merchant wholesalers"
+indus10,42,"Machinery, equipment, and supplies, merchant wholesalers"
+indus10,42,"Hardware, plumbing and heating equipment, and supplies, merchant wholesalers"
+indus10,41,"Electrical and electronic goods, merchant wholesalers"
+indus10,41,"Metals and minerals, except petroleum, merchant wholesalers"
+indus10,41,"Professional and commercial equipment and supplies, merchant wholesalers"
+indus10,40,"Lumber and other construction materials, merchant wholesalers"
+indus10,40,"Furniture and home furnishing, merchant wholesalers"
+indus10,40,"Motor vehicles, parts and supplies, merchant wholesalers"
+indus10,39,Not specified manufacturing industries
+indus10,39,"Miscellaneous manufacturing, n.e.c."
+indus10,39,"Sporting and athletic goods, and doll, toy and game manufacturing"
+indus10,39,Medical equipment and supplies manufacturing
+indus10,38,Furniture and related product manufacturing
+indus10,38,Miscellaneous wood products
+indus10,37,Prefabricated wood buildings and mobile homes
+indus10,37,"Veneer, plywood, and engineered wood products"
+indus10,37,Sawmills and wood preservation
+indus10,36,Other transportation equipment manufacturing
+indus10,36,Ship and boat building
+indus10,36,Railroad rolling stock manufacturing
+indus10,35,Aerospace product and parts manufacturing
+indus10,35,Aircraft and parts manufacturing
+indus10,35,Motor vehicles and motor vehicle equipment manufacturing
+indus10,34,"Electrical lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c."
+indus10,34,Household appliance manufacturing
+indus10,33,"Electronic component and product manufacturing, n.e.c."
+indus10,33,"Navigational, measuring, electromedical, and control instruments manufacturing"
+indus10,33,"Communications, and audio and video equipment manufacturing        "
+indus10,33,Computer and peripheral equipment manufacturing    
+indus10,32,Not specified machinery manufacturing        
+indus10,31,"Machinery manufacturing, n.e.c.    "
+indus10,31,"Engines, turbines, and power transmission equipment manufacturing      "
+indus10,31,Metalworking machinery manufacturing   
+indus10,30,Commercial and service industry machinery manufacturing
+indus10,30,"Construction, and mining and oil and gas field machinery manufacturing    "
+indus10,30,Agricultural implement manufacturing
+indus10,29,Not specified metal industries
+indus10,29,Miscellaneous fabricated metal products manufacturing
+indus10,29,Ordnance
+indus10,28,"Coating, engraving, heat treating and allied activities"
+indus10,28,"Machine shops; turned product; screw, nut, and bolt manufacturing"
+indus10,28,"Structural metals, and boiler, tank, and shipping container manufacturing"
+indus10,27,Cutlery and hand tool manufacturing
+indus10,27,Metal forgings and stampings
+indus10,27,Foundries
+indus10,26,Nonferrous metal (except aluminum) production and processing
+indus10,26,Aluminum production and processing
+indus10,26,Iron and steel mills and steel product manufacturing 
+indus10,25,Miscellaneous nonmetallic mineral product manufacturing
+indus10,25,"Cement, concrete, lime, and gypsum product manufacturing"
+indus10,24,Glass and glass product manufacturing
+indus10,24,Structural clay product manufacturing
+indus10,24,"Pottery, ceramics, and plumbing fixture manufacturing"
+indus10,23,"Rubber product, except tire, manufacturing"
+indus10,23,Tire manufacturing
+indus10,23,Plastics product manufacturing
+indus10,22,Industrial and miscellaneous chemicals
+indus10,22,"Soap, cleaning compound, and cosmetics manufacturing"
+indus10,22,"Paint, coating, and adhesive manufacturing"
+indus10,21,Pharmaceutical and medicine manufacturing
+indus10,21,Agricultural chemical manufacturing
+indus10,21,"Resin, synthetic rubber and fibers, and filaments manufacturing"
+indus10,20,Miscellaneous petroleum and coal products
+indus10,20,Petroleum refining
+indus10,19,Printing and related support activities
+indus10,18,Miscellaneous paper and pulp products
+indus10,18,Paperboard containers and boxes
+indus10,18,"Pulp, paper, and paperboard mills"
+indus10,17,Leather tanning and finishing and other allied products manufacturing
+indus10,17,Footwear manufacturing
+indus10,16,Apparel accessories and other apparel manufacturing
+indus10,16,Cut and sew apparel manufacturing
+indus10,16,"Knitting fabric mills, and apparel knitting mills"
+indus10,15,"Textile product mills, except carpet and rug"
+indus10,15,Carpet and rug mills
+indus10,14,Textile and fabric finishing and coating mills
+indus10,14,"Fabric mills, except knitting mills"
+indus10,14,"Fiber, yarn, and thread mills"
+indus10,13,Tobacco manufacturing
+indus10,13,Beverage manufacturing
+indus10,12,Not specified food industries
+indus10,12,"Seafood and other miscellaneous foods, n.e.c."
+indus10,12,"Bakeries, except retail"
+indus10,11,Retail bakeries
+indus10,11,Animal slaughtering and processing
+indus10,11,Dairy product manufacturing
+indus10,10,Fruit and vegetable preserving and specialty food manufacturing
+indus10,10,Sugar and confectionery products
+indus10,10,"Animal food, grain, and oilseed milling"
+indus10,7,Construction
+indus10,6,Not specified utilities
+indus10,6,Sewage treatment facilities
+indus10,6,"Water, steam, air-conditioning, and irrigation systems"
+indus10,5,"Electric and gas, and other combinations"
+indus10,5,Natural gas distribution
+indus10,5,"Electric power generation, transmission, and distribution"
+indus10,4,Support activities for mining
+indus10,4,Not specified type of mining
+indus10,4,Nonmetallic mineral mining and quarrying
+indus10,3,Metal ore mining
+indus10,3,Coal mining
+indus10,3,Oil and gas extraction
+indus10,2,Support activities for agriculture and forestry
+indus10,2,"Fishing, hunting, and trapping"
+indus10,2,Logging
+indus10,1,"Forestry, except logging"
+indus10,1,Animal production
+indus10,1,Crop production
+indus10,0,Not applicable
+sex,Female,Female
+sex,Male,Male
+race,Other,Other
+race,Black,Black
+race,White,White
+race,Not applicable,Not applicable
+mobile16,0,No answer
+mobile16,0,Don't know
+mobile16,3,Different state
+mobile16,2,"Same st,dif city"
+mobile16,1,Same city
+mobile16,0,Not applicable
+partyid,3,No answer
+partyid,3,Don't know
+partyid,3,Other party
+partyid,6,Strong republican
+partyid,5,Not str republican
+partyid,4,"Ind,near rep"
+partyid,3,Independent
+partyid,2,"Ind,near dem"
+partyid,1,Not str democrat
+partyid,0,Strong democrat
+polviews,4,No answer
+polviews,4,Don't know
+polviews,7,Extrmly conservative
+polviews,6,Conservative
+polviews,5,Slghtly conservative
+polviews,4,Moderate
+polviews,3,Slightly liberal
+polviews,2,Liberal
+polviews,1,Extremely liberal
+polviews,0,Not applicable
+natenvir,1.5,No answer
+natenvir,1.5,Don't know
+natenvir,3,Too much
+natenvir,2,About right
+natenvir,1,Too little
+natenvir,0,Not applicable
+earnrs,8,Eight or more
+age,92,89 or older
