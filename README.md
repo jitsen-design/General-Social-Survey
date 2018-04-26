@@ -6,5 +6,5 @@ GSS_Two_Class.ipynb : This notebook eliminates the middle category of 'Happy', s
 
 GSS_Income_Party : This notebook looks at the difference in happiness of registered Reublicans vs that of Democrats. It also looks at the disparity in happiness between high income earners and low income individuals
 
-
+[Follow my process here](https://github.com/jitsen-design/General-Social-Survey/blob/master/General_State_of_Being.pdf)
 
